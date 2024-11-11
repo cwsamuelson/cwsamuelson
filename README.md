@@ -1,9 +1,18 @@
-## Hi there 👋
+## Hello there! 👋
+I'm a big nerd 🤓, and senior software developer 🖥️.
+
+I work on personal projects for topics I'm interested in.  Currently that includes:
+- Graphics
+- Game engines
+- Programming languages
+- Best practices
+  - Especially different kinds of testing
+  - This primarily has the end goal to support the other stuff
+
+I'm very knowledgeable in C++/systems, and want to learn Rust🦀!
 
 <!--
-**cwsamuelson/cwsamuelson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Here are some ideas:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
